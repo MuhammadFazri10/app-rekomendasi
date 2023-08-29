@@ -1,0 +1,11 @@
+.horizontal-timeline {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  
+  .horizontal-timeline-item {
+    width: auto;
+  }
+
+
